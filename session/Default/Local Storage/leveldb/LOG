@@ -1,3 +1,60 @@
-2025/11/24-20:04:51.334 5 Reusing MANIFEST /home/raphaelgaio/bot_wpp_telegram/session/Default/Local Storage/leveldb/MANIFEST-000001
-2025/11/24-20:04:51.337 5 Recovering log #11
-2025/11/24-20:04:51.337 5 Reusing old log /home/raphaelgaio/bot_wpp_telegram/session/Default/Local Storage/leveldb/000011.log 
+2025/11/24-21:57:59.196 5 Reusing MANIFEST /home/raphaelgaio/bot_wpp_telegram/session/Default/Local Storage/leveldb/MANIFEST-000001
+2025/11/24-21:57:59.199 5 Recovering log #13
+2025/11/24-21:57:59.199 5 Reusing old log /home/raphaelgaio/bot_wpp_telegram/session/Default/Local Storage/leveldb/000013.log 
+2025/11/24-21:59:03.640 7 Level-0 table #17: started
+2025/11/24-21:59:03.644 7 Level-0 table #17: 14174 bytes OK
+2025/11/24-21:59:03.646 7 Delete type=0 #13
+2025/11/24-23:33:32.783 7 Level-0 table #19: started
+2025/11/24-23:33:32.786 7 Level-0 table #19: 12652 bytes OK
+2025/11/24-23:33:32.790 7 Delete type=0 #16
+2025/11/24-23:33:32.790 7 Compacting 4@0 + 1@1 files
+2025/11/24-23:33:32.793 7 Generated table #20@0: 163 keys, 9921 bytes
+2025/11/24-23:33:32.793 7 Compacted 4@0 + 1@1 files => 9921 bytes
+2025/11/24-23:33:32.795 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/24-23:33:32.795 7 Delete type=2 #14
+2025/11/24-23:33:32.795 7 Delete type=2 #17
+2025/11/24-23:33:32.795 7 Delete type=2 #8
+2025/11/24-23:33:32.795 7 Delete type=2 #10
+2025/11/24-23:33:32.795 7 Delete type=2 #19
+2025/11/26-00:35:05.428 7 Level-0 table #22: started
+2025/11/26-00:35:05.431 7 Level-0 table #22: 13874 bytes OK
+2025/11/26-00:35:05.433 7 Delete type=0 #18
+2025/11/26-13:21:34.499 7 Level-0 table #24: started
+2025/11/26-13:21:34.501 7 Level-0 table #24: 13089 bytes OK
+2025/11/26-13:21:34.503 7 Delete type=0 #21
+2025/11/26-15:05:06.485 7 Level-0 table #26: started
+2025/11/26-15:05:06.488 7 Level-0 table #26: 12896 bytes OK
+2025/11/26-15:05:06.490 7 Delete type=0 #23
+2025/11/26-16:43:23.244 7 Level-0 table #28: started
+2025/11/26-16:43:23.245 7 Level-0 table #28: 11881 bytes OK
+2025/11/26-16:43:23.248 7 Delete type=0 #25
+2025/11/26-16:43:23.249 7 Compacting 4@0 + 1@1 files
+2025/11/26-16:43:23.252 7 Generated table #29@0: 180 keys, 11351 bytes
+2025/11/26-16:43:23.252 7 Compacted 4@0 + 1@1 files => 11351 bytes
+2025/11/26-16:43:23.253 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/26-16:43:23.254 7 Delete type=2 #20
+2025/11/26-16:43:23.254 7 Delete type=2 #24
+2025/11/26-16:43:23.254 7 Delete type=2 #28
+2025/11/26-16:43:23.254 7 Delete type=2 #26
+2025/11/26-16:43:23.254 7 Delete type=2 #22
+2025/11/26-18:27:41.278 7 Level-0 table #31: started
+2025/11/26-18:27:41.283 7 Level-0 table #31: 12876 bytes OK
+2025/11/26-18:27:41.288 7 Delete type=0 #27
+2025/11/26-20:04:39.412 7 Level-0 table #33: started
+2025/11/26-20:04:39.415 7 Level-0 table #33: 12921 bytes OK
+2025/11/26-20:04:39.417 7 Delete type=0 #30
+2025/11/26-21:51:54.523 7 Level-0 table #35: started
+2025/11/26-21:51:54.526 7 Level-0 table #35: 12469 bytes OK
+2025/11/26-21:51:54.528 7 Delete type=0 #32
+2025/11/26-23:34:00.368 7 Level-0 table #37: started
+2025/11/26-23:34:00.376 7 Level-0 table #37: 13447 bytes OK
+2025/11/26-23:34:00.385 7 Delete type=0 #34
+2025/11/26-23:34:00.386 7 Compacting 4@0 + 1@1 files
+2025/11/26-23:34:00.394 7 Generated table #38@0: 183 keys, 12442 bytes
+2025/11/26-23:34:00.395 7 Compacted 4@0 + 1@1 files => 12442 bytes
+2025/11/26-23:34:00.402 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/26-23:34:00.402 7 Delete type=2 #35
+2025/11/26-23:34:00.403 7 Delete type=2 #33
+2025/11/26-23:34:00.403 7 Delete type=2 #29
+2025/11/26-23:34:00.403 7 Delete type=2 #37
+2025/11/26-23:34:00.403 7 Delete type=2 #31
